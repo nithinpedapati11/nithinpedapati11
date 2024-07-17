@@ -5,7 +5,7 @@
 
 - I’m currently working on [Scripiting Languages]()
 
-- I’m currently learning **Java Programming**()
+- I’m currently learning **Java Programming.**
   
 - All of my projects are available at [Portfolio]()
 

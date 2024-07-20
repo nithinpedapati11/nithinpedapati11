@@ -10,7 +10,7 @@ All of my projects are available at my [Portfolio]()
 
 How to reach me **nithinpedapati@gmail.com**
 
-Fun fact **The first-ever website is still active!!**
+Fun fact: **The first-ever website is still active!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

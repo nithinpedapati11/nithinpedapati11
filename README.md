@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithinpedapati11&label=Profile%20views&color=0e75b6&style=flat" alt="nithinpedapati11" /> </p>
 
-- I’m currently working on [Scripiting Languages]()
+I’m currently working on [Scripiting Languages]()
   
-- All of my projects are available at my [Portfolio]()
+All of my projects are available at my [Portfolio]()
 
-- How to reach me **nithinpedapati@gmail.com**
+How to reach me **nithinpedapati@gmail.com**
 
-- Fun fact **The first-ever website is still active!!**
+Fun fact **The first-ever website is still active!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

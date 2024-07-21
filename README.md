@@ -8,7 +8,7 @@ I’m currently working on [Scripiting Languages]()
   
 All of my projects are available at my [Portfolio]()
 
-How to reach me **nithinpedapati@gmail.com**
+You can reach me via **nithinpedapati@gmail.com**
 
 Fun fact: **The first-ever website is still active!!**
 

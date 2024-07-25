@@ -6,7 +6,7 @@
 
 I’m currently working on [Scripiting Languages]()
   
-All of my projects are available at my [Portfolio]()
+All of my projects are available at my [Portfolio](https://nithinpedapati-portfolio.netlify.app/)
 
 You can reach me via **nithinpedapati@gmail.com**
 
